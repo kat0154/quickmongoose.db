@@ -4,7 +4,7 @@
 
 # quick.mongoose
 
-an easy to install and easy to use wrapper for the [mongoose cli](https://npmjs.com/packages/mongoose)
+an easy to install and easy to use wrapper for [mongoose](https://npmjs.com/package/mongoose)
 
 # Examples
 setup
