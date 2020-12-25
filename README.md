@@ -1,15 +1,15 @@
-![version](https://raster.shields.io/npm/v/quick.mongoose.png)![downloads](https://raster.shields.io/npm/dt/quick.mongoose.png?maxAge=3600)
+![version](https://raster.shields.io/npm/v/quickmongoose.db.png)![downloads](https://raster.shields.io/npm/dt/quickmongoose.db.png?maxAge=3600)
 
-![npm](https://nodei.co/npm/quick.mongoose.png)
+![npm](https://nodei.co/npm/quickmongoose.db.png)
 
-# quick.mongoose
+# quickmongoose.db
 
 an easy to install and easy to use wrapper for [mongoose](https://npmjs.com/package/mongoose)
 
 # Examples
 setup
 ```js
-let mongo = require('quick.mongoose');
+let mongo = require('quickmongoose.db');
 let db = new mongo.Connection('mongodb-connectionURL');
 let econ = new db.table('economy', {
   UserID: Number,
